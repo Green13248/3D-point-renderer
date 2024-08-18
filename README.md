@@ -1,0 +1,3 @@
+A simple python program that can render 3D points on the screen using weak perspective projection.
+
+Very easy to make your own for fun in a couple of minutes, but don't expect to be rendering games like this...
